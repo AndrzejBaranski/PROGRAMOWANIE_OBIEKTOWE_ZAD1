@@ -1,0 +1,3 @@
+C:/Users/allti/OneDrive/Pulpit/STUDIA/SEMESTR 4/PROGRAMOWANIE OBIEKTOWE ZAD1/cmake-build-debug/CMakeFiles/PROGRAMOWANIE_OBIEKTOWE_ZAD1.dir
+C:/Users/allti/OneDrive/Pulpit/STUDIA/SEMESTR 4/PROGRAMOWANIE OBIEKTOWE ZAD1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allti/OneDrive/Pulpit/STUDIA/SEMESTR 4/PROGRAMOWANIE OBIEKTOWE ZAD1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
